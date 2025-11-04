@@ -29,7 +29,7 @@ Predictive maintenance is a proactive approach that uses data-driven techniques 
 | Ridge Regression | 20.08 | 0.77 |
 | **XGBoost** | **19.85** | **0.77** |
 
-![Model Comparison](https://www.dropbox.com/scl/fi/e2vja0cad4ddnihhceoer/Models-Comparision.png?rlkey=fdysqypkou941bcv9dczlkz07&st=zd2hnk7l&dl=1)
+![Model Comparison](https://www.dropbox.com/scl/fi/e2vja0cad4ddnihhceoer/Models-Comparision.png?rlkey=fdysqypkou941bcv9dczlkz07&st=zd2hnk7l&raw=1)
 
 ## 🗂️ Repository Structure
 
@@ -67,7 +67,7 @@ Each row contains:
 
 ## 🔄 Machine Learning Workflow
 
-![Machine Learning Workflow for Predictive Maintenance (RUL Prediction)](https://www.dropbox.com/scl/fi/np5omkgic1rau5bulobhm/Screenshot-2025-11-04-015543.png?rlkey=qvme86u6dji8lal5xdouwnfw4&st=cjag42dp&dl=1)
+![Machine Learning Workflow for Predictive Maintenance (RUL Prediction)](https://www.dropbox.com/scl/fi/np5omkgic1rau5bulobhm/Screenshot-2025-11-04-015543.png?rlkey=qvme86u6dji8lal5xdouwnfw4&st=cjag42dp&raw=1)
 
 ## 🛠️ Methodology
 
